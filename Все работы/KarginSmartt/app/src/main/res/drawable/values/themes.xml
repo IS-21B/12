@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-
-    <style name="Theme.KarginSmart" parent="android:Theme.Material.Light.NoActionBar" />
-    <style name="Theme.KarginSmart.zactavka" parent="Theme.KarginSmart">
-        <item name="android:windowBackground">@drawable/zactavka</item>
-
-    </style>
-</resources>
